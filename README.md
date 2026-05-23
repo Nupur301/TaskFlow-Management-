@@ -7,13 +7,6 @@ A **full-stack task management application** built with Java Spring Boot and Rea
 ![React](https://img.shields.io/badge/React-18-blue?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat-square)
 ![JWT](https://img.shields.io/badge/Auth-JWT-purple?style=flat-square)
-
----
-
-## 📸 Preview
-
-> Login screen → Dashboard with task cards, status filters, and live stats
-
 ---
 
 ## ✨ Features
